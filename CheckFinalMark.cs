@@ -1,4 +1,4 @@
-//Daniel Contreras
+//Daniel Contreras-IES San Vicente
 //program asking for 3 integers and showing them in different outputs
 //based on their marks and average
 
